@@ -1,4 +1,4 @@
-# 🤖 Rule-Based Chatbot v2.0 - Production Edition
+# 🤖 DecodeLabs_Chatbot_Project 1
 
 **Industrial Training Kit - DecodeLabs**
 

@@ -1,0 +1,6 @@
+# Development dependencies
+pytest>=6.2.0          # Testing framework
+pytest-cov>=2.12.0     # Coverage reporting
+black>=21.0b0          # Code formatter
+flake8>=3.9.0          # Linter
+mypy>=0.900            # Type checker
